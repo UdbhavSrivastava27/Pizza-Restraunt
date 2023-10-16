@@ -1,4 +1,10 @@
 # Pizza-Restraunt
+
+
+
+#Deploy Link:
+https://udbhavsrivastava27.github.io/Pizza-Restraunt/
+
 Project Overview 
 Task:
 Create a responsive and accessible web page for a restaurant, including a header with a navigation menu and social icons, a main content section with an image background, an About us section, a Menu section with multiple items, a Find Us section with a Google Maps embed and contact information, and a footer. The website should work on all devices and be accessible to users with disabilities.
@@ -26,3 +32,6 @@ Create a footer section with the same design as shown in the Figma design. Use a
 
 Responsive design:
 Make sure the website has a responsive design that works on all devices.
+
+
+
